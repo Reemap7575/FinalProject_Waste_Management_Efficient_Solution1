@@ -1,0 +1,6 @@
+Title,Body,Assignee,Labels,Milestone
+Setup Arduino & Sensor,"Research ultrasonic sensor and connect to Arduino Uno",reemapanchal,Hardware,Phase 1 - Bin
+Test GSM Module,"Test SMS alert functionality for bin threshold",reemapanchal,Hardware,Phase 1 - Bin
+Design Mobile App UI,"Sketch and implement UI for waste bin dashboard",reemapanchal,Frontend,Phase 2 - App
+Build Firebase API,"Create and connect backend for bin status",reemapanchal,Backend,Phase 2 - App
+Train Waste Classifier,"Use Teachable Machine or TensorFlow for AI model",reemapanchal,AI,Phase 3 - AI
